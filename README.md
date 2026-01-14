@@ -2,7 +2,7 @@
 
 An autonomous **AI vs AI chess system** built using Python, Streamlit, and custom chess engines.
 
-## 🚀 Features
+## Features
 - Autonomous AI vs AI gameplay (no human input)
 - International chess rules (FIDE compliant)
 - Minimax AI with:
